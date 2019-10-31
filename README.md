@@ -1,2 +1,2 @@
 # iestar
-Repositorio institucional
+Repositorio institucional del Instituto Superior Tecnológico ANTONIO RAYMONDI
